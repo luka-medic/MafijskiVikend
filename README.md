@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mafijski vikend
 ## Delavnica: Numerični poskusi z računalnikom
 
@@ -13,3 +14,9 @@ Jupyter: https://jupyter.org/ - urejevalnik
 ### Spletna uporaba (Deljenje z ostalimi)
 GitHub: https://github.com/ - spletni `repositorij`
 My binder: https://mybinder.org/ - spletni docker, ki iz `GitHub-repo` pripravi okolje brez dodatne installacije na računalniku; [navodila za Python](https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md))
+=======
+# MafijskiVikend
+Mafijski vikend - Delavnica: Numerični poskusi z računalnikom
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/luka-medic/MafijskiVikend/main)
+>>>>>>> a29c1f742dc5dc332eb5e7c9a8238c345514cf18
